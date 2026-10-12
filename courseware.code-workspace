@@ -1,0 +1,100 @@
+{
+	"folders": [
+		{
+			"name": "courseware",
+			"path": "../../../FILE KEMENKEU/PELATIHAN DIKLAT/Pelatihan AIML Fundamentals and Implementation Using Python/courseware-20251014T022251Z-1-001/courseware"
+		},
+		{
+			"name": "Learn-Data-Structures-and-Algorithms-with-Golang",
+			"path": "../Learn-Data-Structures-and-Algorithms-with-Golang"
+		},
+		{
+			"name": "awesome-behavioral-interviews",
+			"path": "../awesome-behavioral-interviews"
+		},
+		{
+			"name": "awesome-leetcode-resources",
+			"path": "../awesome-leetcode-resources"
+		},
+		{
+			"name": "leetcode",
+			"path": "../leetcode"
+		},
+		{
+			"name": "awesome-low-level-design",
+			"path": "../awesome-low-level-design"
+		},
+		{
+			"name": "awesome-system-design-resources",
+			"path": "../awesome-system-design-resources"
+		},
+		{
+			"name": "dasarpemrogramangolang",
+			"path": "../dasarpemrogramangolang"
+		},
+		{
+			"name": "Go",
+			"path": "../Go"
+		},
+		{
+			"name": "go-kafka-demo",
+			"path": "../go-kafka-demo"
+		},
+		{
+			"name": "go-learn",
+			"path": "../go-learn"
+		},
+		{
+			"name": "learning-go",
+			"path": "../learning-go"
+		},
+		{
+			"name": "leetcode-go",
+			"path": "../leetcode-go"
+		},
+		{
+			"name": "lit",
+			"path": "../lit"
+		},
+		{
+			"name": "interviews",
+			"path": "../interviews"
+		},
+		{
+			"name": "go-exercises",
+			"path": "../go-exercises"
+		},
+		{
+			"name": "java-dsa",
+			"path": "../java-dsa"
+		},
+		{
+			"name": "python-for-coding-interviews",
+			"path": "../python-for-coding-interviews"
+		},
+		{
+			"name": "mit-introduction-to-algorithms",
+			"path": "../mit-introduction-to-algorithms"
+		},
+		{
+			"name": "mit-6100l-introduction-to-cs-and-programming-using-python",
+			"path": "../mit-6100l-introduction-to-cs-and-programming-using-python"
+		},
+		{
+			"name": "graphrag-training",
+			"path": "../../../FILE KEMENKEU/PSDP I/Training/graphrag-training"
+		},
+		{
+			"path": "../cs50-s-introduction-to-databases-with-sql"
+		},
+		{
+			"path": "../neetcode-sql-interviews"
+		},
+		{
+			"path": "../python_w3school"
+		},
+		{
+			"path": "."
+		}
+	]
+}
